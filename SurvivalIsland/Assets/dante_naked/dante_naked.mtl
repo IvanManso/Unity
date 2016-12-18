@@ -1,0 +1,83 @@
+# Blender MTL File: 'dante_naked.blend'
+# Material Count: 7
+
+newmtl m_dante_teeth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_head_d.tga
+map_Ka t_dante_head_m.tga
+map_Disp t_dante_head_n.tga
+
+newmtl mi_dante_eye
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_eye_d.tga
+map_Disp t_mundus_human_chain_n.tga
+
+newmtl mi_dante_eyeLashes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_caruncles_d.tga
+
+newmtl mi_dante_head
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_head_d.tga
+map_Ka t_dante_head_m.tga
+map_Disp t_dante_head_n.tga
+
+newmtl mi_dante_inGameHair_masked
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_hair_black_dm.tga
+map_Disp t_dante_hair_n.tga
+map_Ks t_dante_hair_s.tga
+
+newmtl mi_dante_naked_lowerbody2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_naked_lowerbody_d.tga
+map_Ka t_dante_naked_lowerbody_m.tga
+map_Disp t_dante_naked_lowerbody_n.tga
+
+newmtl mi_dante_naked_upperbody
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd t_dante_naked_upperbody_d.tga
+map_Ka t_dante_naked_upperbody_m.tga
+map_Disp t_dante_naked_upperbody_n.tga
